@@ -1,5 +1,5 @@
 # The name of the workflow, which is displayed in the GitHub Actions tab. This helps identify the workflow's purpose.
-name: "PB-Maven Github Actions App Deployment Workflow"
+name: "Amar-Maven Github Actions App Deployment Workflow"
 
 # Trigger the workflow manually using the workflow_dispatch event with inputs for environment, Java version, and commit message
 on:
